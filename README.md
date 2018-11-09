@@ -1,1 +1,1 @@
-* how come this repo did not have a README?
+What is README.adoc?

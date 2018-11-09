@@ -1,2 +1,2 @@
-What is README.adoc?
-<1> how do I make a title?
+## What is README.adoc?
+#how do I make a title?
